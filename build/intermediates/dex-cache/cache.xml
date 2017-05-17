@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/komal/Documents/CarSolution1/app/libs/GoogleAdMobAdsSdk-4.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="285db93a36432da767fe0edfb3a9df143eecbb0e">
+        <dex dex="/Users/komal/Documents/CarSolution1/app/build/intermediates/pre-dexed/debug/GoogleAdMobAdsSdk-4.1.0_be28239b6ef0803b2afed1de25a6f1747c5fc10e.jar" />
+    </item>
+
+</items>

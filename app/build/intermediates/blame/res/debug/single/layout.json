@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/detailslayout.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/detailslayout.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/splashscreen.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/rowlist.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/rowlist.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/hhhomemenu.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/hhhomemenu.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/listlayout.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/listlayout.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/homemenu.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/homemenu.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/review.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/review.xml"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/layout/mapview.xml",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/layout/mapview.xml"
+    }
+]

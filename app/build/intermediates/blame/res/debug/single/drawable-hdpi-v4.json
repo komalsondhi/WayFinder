@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/carbackg.jpg",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/drawable-hdpi/carbackg.jpg"
+    },
+    {
+        "merged": "/Users/komal/Documents/CarSolution1/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/splash_car.jpg",
+        "source": "/Users/komal/Documents/CarSolution1/app/src/main/res/drawable-hdpi/splash_car.jpg"
+    }
+]
